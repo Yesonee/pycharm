@@ -15,3 +15,7 @@ print(word[:])
 #4、连接字符
 #join方法也可以对字符串使用，作用就是用连接符把字符串中的每个字符重新连接成一个新字符串
 news = ','.join(word)
+
+f = open('')
+
+https://python666.cn/cls/lesson/32/
